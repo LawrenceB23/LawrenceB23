@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any beginners coding project.
-- 📫 How to reach me at Lawrencebrown2306@gmail.com
+- 📫 How to reach me at Lawrencebrown2306@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to record music and enjoy going to sporting events.
 
